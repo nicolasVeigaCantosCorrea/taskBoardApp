@@ -29,7 +29,7 @@ My goal is to become familiar with the Qt framework and practice backend develop
 ---
 
 ## 📂 Project Structure
-/src # All source code (C++ + Qt UI)
-/data # JSON storage files
-/assets # Icons, images
-README.md # This file
+- /src # All source code (C++ + Qt UI)
+- /data # JSON storage files
+- /assets # Icons, images
+- README.md # This file
