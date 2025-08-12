@@ -1,2 +1,2 @@
 # taskBoardApp
-Taskboard app inspired by Trello, built with Qt for learning backend and UI development.
+Taskboard app built with Qt for learning backend and UI development.
